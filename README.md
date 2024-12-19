@@ -1,3 +1,13 @@
+# Session #1 - Intro Building on Ethereum by Austin
+Following workshop [Intro to Building on Eth](https://www.youtube.com/watch?v=8l9ohUBaxPk) and challenges for [Speedrun Ethereum](https://speedrunethereum.com/)
+
+1. Follow the workshop steps above and get Scaffold-ETH up and running
+2. Complete [Challenge #0](https://speedrunethereum.com/challenge/simple-nft-example) 
+
+## Go to Viv's Notes
+For my learning, taking [notes](./Notes.md)
+
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
